@@ -1,4 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "es-es"
-title = "Eureka Universe Documentation"
-theme="hugo-theme-learn"
