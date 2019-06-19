@@ -1,0 +1,36 @@
+[
+{
+	"uri": "http://EurekaUniverse.github.io/representaciondelogicadifusa/tiposdelogicadifusa/",
+	"title": "Tipos de lógica difusa.",
+	"tags": [],
+	"description": "",
+	"content": "Eureka-Universe permite el trabajo con los siguientes tipos de lógicas:\n Lógica de Zadeh. Lógica Probabilística. Lógica Compensatoria Basada en la Media Geométrica. Lógica Compensatoria Basada en la Media Aritmética. Lógica Compensatoria Basada en la Media Quasi-Aritmética. Lógica Compensatoria Arquimediana.  \\[\\int_{a}^{b} x^2 dx\\]\n"
+},
+{
+	"uri": "http://EurekaUniverse.github.io/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " ¡Bienvenido a Eureka Universe! Eureka-Universe es un sistema único que permite resolver tareas y combinarlas en soluciones para la toma de decisiones, sin necesidad de que los usuarios conozcan teorías y algoritmos de matemáticas y ciencias de la computación; solo su propio conocimiento sobre el negocio y el sentido común para la interacción con un editor gráfico y basado en lenguaje natural.\nEureka-Universe puede realizar las siguientes tareas:\nEvaluación La tarea de evaluación calcula los valores de verdad de un predicado difuso de un set de datos.\nDescubrimiento La terea de descubrimiento busca relaciones entre los estados lingüísticos de un set de datos (predicados difusos) que cumplan con las especificaciones del usuario. La búsqueda se realiza mediante algoritmos genéticos para la búsqueda de predicados difusos y para el ajuste de los parámetros de las funciones de pertenencia definidas en los estados lingüísticos.\nInferencia La tarea de inferencia realiza primeramente una tarea de descubrimiento en un set de datos en el que se han definido los estados lingüísticos de variables de condición y decisión. Los predicados difusos obtenidos son utilizados para inferir los valores de las variables de decisión a partir de otro set de datos en el que sólo se conocen las variables de condición.\n"
+},
+{
+	"uri": "http://EurekaUniverse.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://EurekaUniverse.github.io/representaciondelogicadifusa/",
+	"title": "Representación de lógica difusa",
+	"tags": [],
+	"description": "",
+	"content": " Representación de lógica difusa Conceptos generales para entender el fucnionamiento de Eureka Universe\n"
+},
+{
+	"uri": "http://EurekaUniverse.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
